@@ -1,0 +1,94 @@
+body  {
+    background-color: #666666
+}
+
+.header {
+    width: 90%;
+    height: 100px;  
+    background: #efeee7;
+    padding: 30px;
+    float:  inherit;
+    text-align: center;
+    color: #666666;
+    margin: auto;
+}
+
+.nav {
+    width: 90%;
+    height: 100px;
+    background: #efeee7;
+    padding: 30px;
+    float: inherit;
+    text-align: center;
+    color: #666666;
+    margin: 20px auto;
+}
+
+.section-left {
+    width: 42%;
+    height: 300px;
+    background: #efeee7;
+    text-align: center;
+    color: #666666;
+    margin-left: 5%;
+    margin-right: 3%;
+    margin-bottom: auto;
+    float: left;
+}
+
+#first {
+    position: relative;
+    width: 90%;
+    height: 220px;
+    background: #666666;
+    text-align: center;
+    color: #efeee7;
+    margin-left: 5%;
+    margin-right: 5%; 
+}
+
+#second {
+    position: relative;
+    width: 90%;
+    height: 20%;
+    background: #efeee7;
+    text-align: center;
+    color: #666666;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#third {
+    position: relative;
+    width: 90%;
+    height: 20%;
+    background: #efeee7;
+    text-align: center;
+    color: #666666;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.section-right {
+    width: 42%;
+    height: 300px;
+    background: #efeee7;
+    text-align: center;
+    color: #666666;
+    margin-right: 5%;
+    margin-left: 3%;
+    margin-bottom: auto;
+    float: left;
+}
+
+.footer {
+    width: 90%;
+    height: 100px;  
+    background: #efeee7;
+    padding: 30px;
+    float:  inherit;
+    text-align: center;
+    color: #666666;
+    margin: auto;
+    margin-block-start: 35%;
+}
