@@ -95,5 +95,6 @@ body  {
     text-align: center;
     color: #777;
     margin-top: 20px;
-
+    position: relative;
+    bottom: -20px;
 }
